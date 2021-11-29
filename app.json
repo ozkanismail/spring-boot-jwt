@@ -1,0 +1,8 @@
+{
+  "name": "iozkan-userservice-springboot-jwt",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
